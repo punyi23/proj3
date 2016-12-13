@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            //comentari
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("rjv4ri {0}" +i);
