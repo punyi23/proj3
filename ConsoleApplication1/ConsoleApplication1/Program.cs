@@ -10,7 +10,10 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("rjv4ri");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("rjv4ri");
+            }
         }
     }
 }
