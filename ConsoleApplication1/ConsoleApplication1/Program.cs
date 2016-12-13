@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine("rjv4ri");
+                Console.WriteLine("rjv4ri {0}" +i);
             }
         }
     }
