@@ -14,6 +14,7 @@ namespace ConsoleApplication1
             {
                 Console.WriteLine("rjv4ri {0}" +i);
             }
+            Console.ReadLine();
         }
     }
 }
